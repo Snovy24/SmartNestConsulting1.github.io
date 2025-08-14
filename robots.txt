@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snovy24.github.io/SmartNestConsulting1.github.io/sitemap.xml
